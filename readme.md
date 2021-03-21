@@ -14,3 +14,5 @@ You are required to provide solutions for 3 problems specified below:
 ## Submission ##
 You can either provide a link to a online repository, attach the solution in your application, or whichever method you prefer.   
 We're cool as long as we can view your solution without any pain.
+# js-code-challenge-sol
+# js-code-challenge-sol
